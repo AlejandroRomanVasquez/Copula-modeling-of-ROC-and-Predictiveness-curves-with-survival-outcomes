@@ -1,5 +1,5 @@
 # Copula modeling of ROC and Predictiveness curves with survival outcomes
-This repository contains code related to the paper "Copula modeling for the estimation of measures of marker classification and predictiveness performance with survival outcomes". 
+This repository contains code related to the paper "Copula modeling for the estimation of measures of marker classification and predictiveness performance with survival outcomes". https://doi.org/10.1177/09622802231167588
 
 
 The code reproduces the results of the section: "Illustration: Application to the PBC dataset".
